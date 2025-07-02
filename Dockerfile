@@ -23,4 +23,4 @@ EXPOSE 5000
 #    Assumes in your code you have:
 #      if __name__ == "__main__":
 #        app.run(host="0.0.0.0", port=5000)
-CMD ["python", "lambda_function.py"]
+CMD ["python", "interface.py"]

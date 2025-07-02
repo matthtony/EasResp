@@ -1,0 +1,9 @@
+Flask
+twilio
+requests
+PyPDF2
+python-docx
+sentence-transformers
+numpy
+python-dotenv
+awsgi
